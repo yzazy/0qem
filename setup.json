@@ -5,12 +5,5 @@
         "password": "S90851026x",
         "passwordConfirm": "S90851026x"
     },
-    "url": "http://127.0.0.1",
-    "secret": "4154d41c-d081-41f6-9666-abb25f10353b",
-    "database": "redis",
-    "redis": {
-        "password": "bsy4GMrtuquQmvfR",
-        "database": "0"
-    },
-    "port": "8080"
+    "secret": "4154d41c-d081-41f6-9666-abb25f10353b"
 }

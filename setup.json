@@ -5,7 +5,7 @@
         "password": "S90851026x",
         "passwordConfirm": "S90851026x"
     },
-    "url":"https://js-nodebb-xyz.a3c1.starter-us-west-1.openshiftapps.com",
+    "url":"https://js-nodebb-xyz.9a6d.starter-us-east-1a.openshiftapps.com",
     "database": "redis",
     "redis": {
         "host": "10.130.18.194",

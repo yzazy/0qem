@@ -6,6 +6,7 @@
         "passwordConfirm": "S90851026x"
     },
     "url":"https://js-nodebb-xyz.9a6d.starter-us-east-1a.openshiftapps.com",
+    "port":"8080",
     "database": "redis",
     "redis": {
         "host": "10.130.18.194",

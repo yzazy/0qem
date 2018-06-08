@@ -1,5 +1,5 @@
 {
-    "url":"https://vn-nodebb-xyz.9a6d.starter-us-east-1a.openshiftapps.com",
+    "url":"https://js-nodebb-xyz.9a6d.starter-us-east-1a.openshiftapps.com",
     "port":"8080",
     "database": "redis",
     "redis": {

@@ -5,5 +5,13 @@
         "password": "S90851026x",
         "passwordConfirm": "S90851026x"
     },
+    "url":"https://js-b1.a3c1.starter-us-west-1.openshiftapps.com",
+    "database": "redis",
+    "redis": {
+        "host": "10.130.16.205",
+        "port": 6379,
+        "password": "ajhWmAiwXPUTLC6p",
+        "database": "0"
+    },
     "secret": "4154d41c-d081-41f6-9666-abb25f10353b"
 }

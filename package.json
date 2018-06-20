@@ -1,5 +1,5 @@
 {
-  "name": "binhbat-rhc",
+  "name": "nodebb.xyz",
   "license": "GPL-3.0",
   "description": "NodeBB Forum",
   "version": "1.9.3",
@@ -11,9 +11,9 @@
   "main": "NodeBB/app.js",
   "scripts": {
     "install": "git clone https://github.com/NodeBB/NodeBB && cp setup.json NodeBB/config.json",
-    "start": "NodeBB/nodebb upgrade",
-    "dev": "NodeBB/nodebb build && NodeBB/nodebb dev",
-    "ok": "NodeBB/nodebb build && node NodeBB/app"
+    "start": "./NodeBB/nodebb upgrade",
+    "dev": "./NodeBB/nodebb build && ./NodeBB/nodebb dev",
+    "ok": "./NodeBB/nodebb build && node NodeBB/app"
   },
   "dependencies": {
     "debug": "^3.1.0"
@@ -31,12 +31,12 @@
   "maintainers": [
     {
       "name": "yzazy",
-      "email": "yzazy@nodebb.vn",
+      "email": "yzazy@nodebb.xyz",
       "url": "https://github.com/yzazy"
     },
     {
       "name": "binhbat",
-      "email": "binhbat@nodebb.vn",
+      "email": "binhbat@nodebb.xyz",
       "url": "https://github.com/binhbat"
     }
   ]

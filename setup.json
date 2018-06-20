@@ -3,10 +3,10 @@
     "port":"8080",
     "database": "redis",
     "redis": {
-        "host": "10.128.4.253",
+        "host": "10.129.30.213",
         "port": 6379,
-        "password": "bsy4GMrtuquQmvfR",
+        "password": "eJRayrYxHFmvTnsJ",
         "database": "0"
     },
-    "secret": "4154d41c-d081-41f6-9666-abb25f10353b"
+    "secret": "4154d41c-d081-41f6-2610-abb25f10353b"
 }
